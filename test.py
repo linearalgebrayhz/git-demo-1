@@ -15,3 +15,4 @@ if __name__ == "__main__":
     # Example usage of numpy
     arr = np.array([1, 2, 3])
     print("Numpy array:", arr)
+    print("Hello")
