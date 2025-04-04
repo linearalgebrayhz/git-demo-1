@@ -3,6 +3,9 @@ import numpy as np
 def test():
     pass
 
+def date():
+    test()
+
 def matmul(a, b):
     return np.dot(a, b)
 
